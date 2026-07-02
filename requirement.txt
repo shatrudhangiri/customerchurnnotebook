@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib.pyplot
+RandomForestClassifier
+LogisticRegression
+train_test_split
